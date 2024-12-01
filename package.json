@@ -23,6 +23,6 @@
     "newrelic": "^12.8.0"
   },
   "devDependencies": {
-    "eslint": "^8.49.0"
+    "eslint": "^8.57.1"
   }
 }
